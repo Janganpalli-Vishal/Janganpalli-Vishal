@@ -70,6 +70,3 @@ Here are some highlights of what I’ve worked on:
 - Enterprise-ready MEAN dashboards
 - REST APIs with authentication
 - AI-assisted productivity tools
-
-npm install
-npm start
